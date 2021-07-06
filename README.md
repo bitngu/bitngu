@@ -1,5 +1,5 @@
 Hello, my name is Bi Nguyen and I’m interested in Software Development and Predictive Modeling. I’m currently trying to improve my knowledge
-in Machine Learning and Operating Systems. As of now, I'm working on my portfolio website ([bitngu.com](https://www.bitngu.com/) to showcase my skills 
+in Machine Learning and Operating Systems. As of now, I'm working on my portfolio website ([bitngu.com](https://www.bitngu.com/)) to showcase my skills 
 and past projects while looking for a Fall internship and full-time position as a Software Engineer.
 
 <!---
